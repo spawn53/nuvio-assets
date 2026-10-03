@@ -1,0 +1,39 @@
+name: Bootstrap Nuvio Assets
+
+on:
+  push:
+    paths:
+      - ".github/workflows/bootstrap-assets.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  bootstrap:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Rebuild asset archive
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat bootstrap/chunk-*.txt > /tmp/nuvio-assets.b64
+          base64 -d /tmp/nuvio-assets.b64 > /tmp/nuvio-assets.zip
+          echo "0407c8be02e1cb2a14efa1617e0900d184243e5407cbaa9f2251e2981819c8fd  /tmp/nuvio-assets.zip" | sha256sum -c -
+          unzip -o /tmp/nuvio-assets.zip -d .
+          test "$(find themes -type f -name '*.webp' | wc -l)" -eq 68
+
+      - name: Commit final assets
+        shell: bash
+        run: |
+          set -euo pipefail
+          rm -rf bootstrap
+          rm -f .github/workflows/bootstrap-assets.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "Add Nuvio Themes artwork assets"
+          git push
