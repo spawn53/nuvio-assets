@@ -1,0 +1,233 @@
+{
+  "themeFolderCount": 39,
+  "readyAssetPairs": 34,
+  "missingAssetPairs": [
+    "time-travel",
+    "artificial-intelligence",
+    "parallel-worlds",
+    "alternate-reality",
+    "dystopia"
+  ],
+  "collectionArtworkUpdated": 34,
+  "collectionArtworkUntouched": [
+    "Time Travel",
+    "Artificial Intelligence",
+    "Parallel Worlds",
+    "Alternate Reality",
+    "Dystopia"
+  ],
+  "redemptionPosterMappedFrom": "Hand_holding_white_flower_20261003230118.jpg",
+  "allGeneratedLogosWebPAlpha": true,
+  "allGeneratedPostersWebP": true,
+  "logoCleanup": "hybrid-dark/adaptive",
+  "logoCleanupMeta": {
+    "post-apocalyptic": {
+      "bgLow": 50.0,
+      "bgHigh": 107.0,
+      "algorithm": "adaptive"
+    },
+    "cyberpunk": {
+      "bgLow": 72.33333587646484,
+      "bgHigh": 104.0,
+      "algorithm": "adaptive"
+    },
+    "space": {
+      "bgLow": 46.0,
+      "bgHigh": 100.0,
+      "algorithm": "adaptive"
+    },
+    "aliens-first-contact": {
+      "bgLow": 1.0,
+      "bgHigh": 61.0,
+      "algorithm": "dark"
+    },
+    "human-vs-technology": {
+      "bgLow": 36.0,
+      "bgHigh": 91.0,
+      "algorithm": "adaptive"
+    },
+    "revenge": {
+      "bgLow": 193.0,
+      "bgHigh": 213.0,
+      "algorithm": "adaptive"
+    },
+    "spy-espionage": {
+      "bgLow": 5.0,
+      "bgHigh": 59.0,
+      "algorithm": "dark"
+    },
+    "conspiracy": {
+      "bgLow": 33.33333206176758,
+      "bgHigh": 98.0,
+      "algorithm": "adaptive"
+    },
+    "heist": {
+      "bgLow": 102.0,
+      "bgHigh": 145.0,
+      "algorithm": "adaptive"
+    },
+    "prison-escape": {
+      "bgLow": 23.0,
+      "bgHigh": 85.0,
+      "algorithm": "adaptive"
+    },
+    "serial-killers": {
+      "bgLow": 41.0,
+      "bgHigh": 97.0,
+      "algorithm": "adaptive"
+    },
+    "organized-crime": {
+      "bgLow": 35.0,
+      "bgHigh": 92.33333587646484,
+      "algorithm": "adaptive"
+    },
+    "political-intrigue": {
+      "bgLow": 28.0,
+      "bgHigh": 94.0,
+      "algorithm": "adaptive"
+    },
+    "cults-secret-societies": {
+      "bgLow": 2.0,
+      "bgHigh": 54.0,
+      "algorithm": "dark"
+    },
+    "survival": {
+      "bgLow": 2.0,
+      "bgHigh": 64.0,
+      "algorithm": "dark"
+    },
+    "treasure-hunt": {
+      "bgLow": 78.0,
+      "bgHigh": 134.6666717529297,
+      "algorithm": "adaptive"
+    },
+    "road-themed": {
+      "bgLow": 16.0,
+      "bgHigh": 83.66666412353516,
+      "algorithm": "adaptive"
+    },
+    "disaster": {
+      "bgLow": 67.0,
+      "bgHigh": 138.0,
+      "algorithm": "adaptive"
+    },
+    "lost-stranded": {
+      "bgLow": 100.0,
+      "bgHigh": 149.6666717529297,
+      "algorithm": "adaptive"
+    },
+    "memory-identity": {
+      "bgLow": 97.0,
+      "bgHigh": 145.3333282470703,
+      "algorithm": "adaptive"
+    },
+    "obsession": {
+      "bgLow": 71.33333587646484,
+      "bgHigh": 125.0,
+      "algorithm": "adaptive"
+    },
+    "hidden-identity": {
+      "bgLow": 84.0,
+      "bgHigh": 134.0,
+      "algorithm": "adaptive"
+    },
+    "dreams-reality": {
+      "bgLow": 86.0,
+      "bgHigh": 133.0,
+      "algorithm": "adaptive"
+    },
+    "family-secrets": {
+      "bgLow": 68.0,
+      "bgHigh": 118.0,
+      "algorithm": "adaptive"
+    },
+    "coming-of-age": {
+      "bgLow": 72.33333587646484,
+      "bgHigh": 117.33333587646484,
+      "algorithm": "adaptive"
+    },
+    "found-family": {
+      "bgLow": 87.0,
+      "bgHigh": 140.3333282470703,
+      "algorithm": "adaptive"
+    },
+    "redemption": {
+      "bgLow": 84.0,
+      "bgHigh": 132.0,
+      "algorithm": "adaptive"
+    },
+    "forbidden-love": {
+      "bgLow": 2.0,
+      "bgHigh": 48.0,
+      "algorithm": "dark"
+    },
+    "magic-witchcraft": {
+      "bgLow": 85.0,
+      "bgHigh": 136.0,
+      "algorithm": "adaptive"
+    },
+    "mythology": {
+      "bgLow": 84.33333587646484,
+      "bgHigh": 128.0,
+      "algorithm": "adaptive"
+    },
+    "vampires": {
+      "bgLow": 98.0,
+      "bgHigh": 154.3333282470703,
+      "algorithm": "adaptive"
+    },
+    "zombies": {
+      "bgLow": 53.0,
+      "bgHigh": 97.0,
+      "algorithm": "adaptive"
+    },
+    "superhero": {
+      "bgLow": 68.0,
+      "bgHigh": 124.0,
+      "algorithm": "adaptive"
+    },
+    "satire": {
+      "bgLow": 93.33333587646484,
+      "bgHigh": 134.0,
+      "algorithm": "adaptive"
+    }
+  },
+  "allGeneratedLogosHaveRGBA": true,
+  "remoteSpeckPixelsRemoved": {
+    "post-apocalyptic": 0,
+    "cyberpunk": 0,
+    "space": 0,
+    "aliens-first-contact": 0,
+    "human-vs-technology": 0,
+    "revenge": 0,
+    "spy-espionage": 0,
+    "conspiracy": 0,
+    "heist": 0,
+    "prison-escape": 0,
+    "serial-killers": 0,
+    "organized-crime": 0,
+    "political-intrigue": 0,
+    "cults-secret-societies": 0,
+    "survival": 0,
+    "treasure-hunt": 0,
+    "road-themed": 0,
+    "disaster": 0,
+    "lost-stranded": 0,
+    "memory-identity": 0,
+    "obsession": 0,
+    "hidden-identity": 0,
+    "dreams-reality": 0,
+    "family-secrets": 0,
+    "coming-of-age": 0,
+    "found-family": 0,
+    "redemption": 0,
+    "forbidden-love": 0,
+    "magic-witchcraft": 0,
+    "mythology": 0,
+    "vampires": 0,
+    "zombies": 0,
+    "superhero": 0,
+    "satire": 0
+  },
+  "totalRemoteSpeckPixelsRemoved": 0
+}

@@ -1,0 +1,843 @@
+{
+  "schemaVersion": 1,
+  "repository": "spawn53/nuvio-assets",
+  "cdnBase": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main",
+  "themes": {
+    "time-travel": {
+      "slug": "time-travel",
+      "status": "missing"
+    },
+    "artificial-intelligence": {
+      "slug": "artificial-intelligence",
+      "status": "missing"
+    },
+    "parallel-worlds": {
+      "slug": "parallel-worlds",
+      "status": "missing"
+    },
+    "alternate-reality": {
+      "slug": "alternate-reality",
+      "status": "missing"
+    },
+    "dystopia": {
+      "slug": "dystopia",
+      "status": "missing"
+    },
+    "post-apocalyptic": {
+      "slug": "post-apocalyptic",
+      "status": "ready",
+      "logo": {
+        "source": "post-apocalyptic-logo-v1_20261003230120.jpg",
+        "output": "themes/post-apocalyptic/logo-v1.webp",
+        "width": 1000,
+        "height": 117,
+        "alpha": true,
+        "visible_bbox_ratio": 0.5982656552810077,
+        "bytes": 28592,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "post-apocalyptic-poster-v1_20261003230121.jpg",
+        "output": "themes/post-apocalyptic/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 55222
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/post-apocalyptic/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/post-apocalyptic/poster-v1.webp"
+    },
+    "cyberpunk": {
+      "slug": "cyberpunk",
+      "status": "ready",
+      "logo": {
+        "source": "cyberpunk-logo-v1_20261003230121.jpg",
+        "output": "themes/cyberpunk/logo-v1.webp",
+        "width": 1000,
+        "height": 129,
+        "alpha": true,
+        "visible_bbox_ratio": 0.9935094552446705,
+        "bytes": 28594,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "cyberpunk-poster-v1_20261003230121.jpg",
+        "output": "themes/cyberpunk/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 61396
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/cyberpunk/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/cyberpunk/poster-v1.webp"
+    },
+    "space": {
+      "slug": "space",
+      "status": "ready",
+      "logo": {
+        "source": "space-logo-v1_20261003230121.jpg",
+        "output": "themes/space/logo-v1.webp",
+        "width": 1000,
+        "height": 317,
+        "alpha": true,
+        "visible_bbox_ratio": 0.6282523694888565,
+        "bytes": 50774,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "space-poster-v1_20261003230120.jpg",
+        "output": "themes/space/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 11006
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/space/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/space/poster-v1.webp"
+    },
+    "aliens-first-contact": {
+      "slug": "aliens-first-contact",
+      "status": "ready",
+      "logo": {
+        "source": "aliens-first-contact-logo-v1_20261003230120.jpg",
+        "output": "themes/aliens-first-contact/logo-v1.webp",
+        "width": 1000,
+        "height": 539,
+        "alpha": true,
+        "visible_bbox_ratio": 0.10420607380190969,
+        "bytes": 64770,
+        "cleanupAlgorithm": "dark"
+      },
+      "poster": {
+        "source": "aliens-first-contact-poster-v1_20261003230120.jpg",
+        "output": "themes/aliens-first-contact/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 9244
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/aliens-first-contact/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/aliens-first-contact/poster-v1.webp"
+    },
+    "human-vs-technology": {
+      "slug": "human-vs-technology",
+      "status": "ready",
+      "logo": {
+        "source": "human-vs-technology-logo-v1_20261003230120.jpg",
+        "output": "themes/human-vs-technology/logo-v1.webp",
+        "width": 1000,
+        "height": 96,
+        "alpha": true,
+        "visible_bbox_ratio": 0.5627763141957365,
+        "bytes": 24180,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "human-vs-technology-poster-v1_20261003230120.jpg",
+        "output": "themes/human-vs-technology/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 31904
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/human-vs-technology/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/human-vs-technology/poster-v1.webp"
+    },
+    "revenge": {
+      "slug": "revenge",
+      "status": "ready",
+      "logo": {
+        "source": "revenge-logo-v1_20261003230120.jpg",
+        "output": "themes/revenge/logo-v1.webp",
+        "width": 1000,
+        "height": 389,
+        "alpha": true,
+        "visible_bbox_ratio": 1.0,
+        "bytes": 29662,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "revenge-poster-v1_20261003230121.jpg",
+        "output": "themes/revenge/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 48686
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/revenge/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/revenge/poster-v1.webp"
+    },
+    "spy-espionage": {
+      "slug": "spy-espionage",
+      "status": "ready",
+      "logo": {
+        "source": "spy-espionage-logo-v1_20261003230121.jpg",
+        "output": "themes/spy-espionage/logo-v1.webp",
+        "width": 1000,
+        "height": 558,
+        "alpha": true,
+        "visible_bbox_ratio": 0.07654754875242248,
+        "bytes": 40838,
+        "cleanupAlgorithm": "dark"
+      },
+      "poster": {
+        "source": "spy-espionage-poster-v1_20261003230121.jpg",
+        "output": "themes/spy-espionage/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 20280
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/spy-espionage/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/spy-espionage/poster-v1.webp"
+    },
+    "conspiracy": {
+      "slug": "conspiracy",
+      "status": "ready",
+      "logo": {
+        "source": "conspiracy-logo-v1_20261003230120.jpg",
+        "output": "themes/conspiracy/logo-v1.webp",
+        "width": 1000,
+        "height": 136,
+        "alpha": true,
+        "visible_bbox_ratio": 0.6050694192102714,
+        "bytes": 41888,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "conspiracy-poster-v1_20261003230121.jpg",
+        "output": "themes/conspiracy/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 41596
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/conspiracy/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/conspiracy/poster-v1.webp"
+    },
+    "heist": {
+      "slug": "heist",
+      "status": "ready",
+      "logo": {
+        "source": "heist-logo-v1_20261003230120.jpg",
+        "output": "themes/heist/logo-v1.webp",
+        "width": 1000,
+        "height": 260,
+        "alpha": true,
+        "visible_bbox_ratio": 0.9969179611797481,
+        "bytes": 30208,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "heist-poster-v1_20261003230120.jpg",
+        "output": "themes/heist/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 18840
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/heist/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/heist/poster-v1.webp"
+    },
+    "prison-escape": {
+      "slug": "prison-escape",
+      "status": "ready",
+      "logo": {
+        "source": "prison-escape-logo-v1_20261003230120.jpg",
+        "output": "themes/prison-escape/logo-v1.webp",
+        "width": 1000,
+        "height": 149,
+        "alpha": true,
+        "visible_bbox_ratio": 0.5412919391957365,
+        "bytes": 32824,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "prison-escape-poster-v1_20261003230121.jpg",
+        "output": "themes/prison-escape/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 25350
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/prison-escape/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/prison-escape/poster-v1.webp"
+    },
+    "serial-killers": {
+      "slug": "serial-killers",
+      "status": "ready",
+      "logo": {
+        "source": "serial-killers-logo-v1_20261003230120.jpg",
+        "output": "themes/serial-killers/logo-v1.webp",
+        "width": 1000,
+        "height": 242,
+        "alpha": true,
+        "visible_bbox_ratio": 0.6916551220324613,
+        "bytes": 20744,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "serial-killers-poster-v1_20261003230120.jpg",
+        "output": "themes/serial-killers/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 11442
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/serial-killers/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/serial-killers/poster-v1.webp"
+    },
+    "organized-crime": {
+      "slug": "organized-crime",
+      "status": "ready",
+      "logo": {
+        "source": "organized-crime-logo-v1_20261003230120.jpg",
+        "output": "themes/organized-crime/logo-v1.webp",
+        "width": 1000,
+        "height": 304,
+        "alpha": true,
+        "visible_bbox_ratio": 0.5772061606710271,
+        "bytes": 51344,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "organized-crime-poster-v1_20261003230120.jpg",
+        "output": "themes/organized-crime/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 13498
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/organized-crime/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/organized-crime/poster-v1.webp"
+    },
+    "political-intrigue": {
+      "slug": "political-intrigue",
+      "status": "ready",
+      "logo": {
+        "source": "political-intrigue-logo-v1_20261003230120.jpg",
+        "output": "themes/political-intrigue/logo-v1.webp",
+        "width": 1000,
+        "height": 130,
+        "alpha": true,
+        "visible_bbox_ratio": 0.5722836043483527,
+        "bytes": 24998,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "political-intrigue-poster-v1_20261003230120.jpg",
+        "output": "themes/political-intrigue/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 17162
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/political-intrigue/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/political-intrigue/poster-v1.webp"
+    },
+    "cults-secret-societies": {
+      "slug": "cults-secret-societies",
+      "status": "ready",
+      "logo": {
+        "source": "cults-secret-societies-logo-v1_20261003230121.jpg",
+        "output": "themes/cults-secret-societies/logo-v1.webp",
+        "width": 1000,
+        "height": 627,
+        "alpha": true,
+        "visible_bbox_ratio": 0.06273808319848975,
+        "bytes": 70010,
+        "cleanupAlgorithm": "dark"
+      },
+      "poster": {
+        "source": "cults-secret-societies-poster-v1_20261003230121.jpg",
+        "output": "themes/cults-secret-societies/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 25910
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/cults-secret-societies/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/cults-secret-societies/poster-v1.webp"
+    },
+    "survival": {
+      "slug": "survival",
+      "status": "ready",
+      "logo": {
+        "source": "survival-logo-v1_20261003230120.jpg",
+        "output": "themes/survival/logo-v1.webp",
+        "width": 1000,
+        "height": 525,
+        "alpha": true,
+        "visible_bbox_ratio": 0.1492740128391473,
+        "bytes": 51462,
+        "cleanupAlgorithm": "dark"
+      },
+      "poster": {
+        "source": "survival-poster-v1_20261003230120.jpg",
+        "output": "themes/survival/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 17934
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/survival/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/survival/poster-v1.webp"
+    },
+    "treasure-hunt": {
+      "slug": "treasure-hunt",
+      "status": "ready",
+      "logo": {
+        "source": "treasure-hunt-logo-v1_20261003230120.jpg",
+        "output": "themes/treasure-hunt/logo-v1.webp",
+        "width": 1000,
+        "height": 120,
+        "alpha": true,
+        "visible_bbox_ratio": 0.9999895909035853,
+        "bytes": 25082,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "treasure-hunt-poster-v1_20261003230121.jpg",
+        "output": "themes/treasure-hunt/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 71742
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/treasure-hunt/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/treasure-hunt/poster-v1.webp"
+    },
+    "road-themed": {
+      "slug": "road-themed",
+      "status": "ready",
+      "logo": {
+        "source": "road-themed-logo-v1_20261003230120.jpg",
+        "output": "themes/road-themed/logo-v1.webp",
+        "width": 1000,
+        "height": 171,
+        "alpha": true,
+        "visible_bbox_ratio": 0.5131968416908915,
+        "bytes": 32770,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "road-themed-poster-v1_20261003230120.jpg",
+        "output": "themes/road-themed/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 10790
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/road-themed/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/road-themed/poster-v1.webp"
+    },
+    "disaster": {
+      "slug": "disaster",
+      "status": "ready",
+      "logo": {
+        "source": "disaster-logo-v1_20261003230120.jpg",
+        "output": "themes/disaster/logo-v1.webp",
+        "width": 1000,
+        "height": 184,
+        "alpha": true,
+        "visible_bbox_ratio": 0.8434348882630814,
+        "bytes": 37964,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "disaster-poster-v1_20261003230121.jpg",
+        "output": "themes/disaster/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 29712
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/disaster/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/disaster/poster-v1.webp"
+    },
+    "lost-stranded": {
+      "slug": "lost-stranded",
+      "status": "ready",
+      "logo": {
+        "source": "lost-stranded-logo-v1_20261003230120.jpg",
+        "output": "themes/lost-stranded/logo-v1.webp",
+        "width": 1000,
+        "height": 128,
+        "alpha": true,
+        "visible_bbox_ratio": 1.0,
+        "bytes": 32368,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "lost-stranded-poster-v1_20261003230121.jpg",
+        "output": "themes/lost-stranded/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 53174
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/lost-stranded/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/lost-stranded/poster-v1.webp"
+    },
+    "memory-identity": {
+      "slug": "memory-identity",
+      "status": "ready",
+      "logo": {
+        "source": "memory-identity-logo-v1_20261003230120.jpg",
+        "output": "themes/memory-identity/logo-v1.webp",
+        "width": 1000,
+        "height": 377,
+        "alpha": true,
+        "visible_bbox_ratio": 1.0,
+        "bytes": 26718,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "memory-identity-poster-v1_20261003230120.jpg",
+        "output": "themes/memory-identity/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 38530
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/memory-identity/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/memory-identity/poster-v1.webp"
+    },
+    "obsession": {
+      "slug": "obsession",
+      "status": "ready",
+      "logo": {
+        "source": "obsession-logo-v1_20261003230118.jpg",
+        "output": "themes/obsession/logo-v1.webp",
+        "width": 1000,
+        "height": 271,
+        "alpha": true,
+        "visible_bbox_ratio": 0.9989335407582365,
+        "bytes": 46112,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "obsession-poster-v1_20261003230118.jpg",
+        "output": "themes/obsession/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 56706
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/obsession/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/obsession/poster-v1.webp"
+    },
+    "hidden-identity": {
+      "slug": "hidden-identity",
+      "status": "ready",
+      "logo": {
+        "source": "hidden-identity-logo-v1_20261003230120.jpg",
+        "output": "themes/hidden-identity/logo-v1.webp",
+        "width": 1000,
+        "height": 220,
+        "alpha": true,
+        "visible_bbox_ratio": 1.0,
+        "bytes": 47248,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "hidden-identity-poster-v1_20261003230118.jpg",
+        "output": "themes/hidden-identity/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 20758
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/hidden-identity/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/hidden-identity/poster-v1.webp"
+    },
+    "dreams-reality": {
+      "slug": "dreams-reality",
+      "status": "ready",
+      "logo": {
+        "source": "dreams-reality-logo-v1_20261003230118.jpg",
+        "output": "themes/dreams-reality/logo-v1.webp",
+        "width": 1000,
+        "height": 130,
+        "alpha": true,
+        "visible_bbox_ratio": 1.0,
+        "bytes": 22062,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "dreams-reality-poster-v1_20261003230118.jpg",
+        "output": "themes/dreams-reality/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 31790
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/dreams-reality/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/dreams-reality/poster-v1.webp"
+    },
+    "family-secrets": {
+      "slug": "family-secrets",
+      "status": "ready",
+      "logo": {
+        "source": "family-secrets-logo-v1_20261003230120.jpg",
+        "output": "themes/family-secrets/logo-v1.webp",
+        "width": 1000,
+        "height": 417,
+        "alpha": true,
+        "visible_bbox_ratio": 0.9020636506782945,
+        "bytes": 48680,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "family-secrets-poster-v1_20261003230120.jpg",
+        "output": "themes/family-secrets/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 24014
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/family-secrets/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/family-secrets/poster-v1.webp"
+    },
+    "coming-of-age": {
+      "slug": "coming-of-age",
+      "status": "ready",
+      "logo": {
+        "source": "coming-of-age-logo-v1_20261003230118.jpg",
+        "output": "themes/coming-of-age/logo-v1.webp",
+        "width": 1000,
+        "height": 373,
+        "alpha": true,
+        "visible_bbox_ratio": 0.9973163456879846,
+        "bytes": 25466,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "coming-of-age-poster-v1_20261003230118.jpg",
+        "output": "themes/coming-of-age/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 64686
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/coming-of-age/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/coming-of-age/poster-v1.webp"
+    },
+    "found-family": {
+      "slug": "found-family",
+      "status": "ready",
+      "logo": {
+        "source": "found-family-logo-v1_20261003230118.jpg",
+        "output": "themes/found-family/logo-v1.webp",
+        "width": 1000,
+        "height": 405,
+        "alpha": true,
+        "visible_bbox_ratio": 1.0,
+        "bytes": 51222,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "found-family-poster-v1_20261003230118.jpg",
+        "output": "themes/found-family/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 48910
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/found-family/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/found-family/poster-v1.webp"
+    },
+    "redemption": {
+      "slug": "redemption",
+      "status": "ready",
+      "logo": {
+        "source": "redemption-logo-v1_20261003230118.jpg",
+        "output": "themes/redemption/logo-v1.webp",
+        "width": 1000,
+        "height": 386,
+        "alpha": true,
+        "visible_bbox_ratio": 0.9855824551841085,
+        "bytes": 24726,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "Hand_holding_white_flower_20261003230118.jpg",
+        "output": "themes/redemption/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 27064
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/redemption/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/redemption/poster-v1.webp"
+    },
+    "forbidden-love": {
+      "slug": "forbidden-love",
+      "status": "ready",
+      "logo": {
+        "source": "forbidden-love-logo-v1_20261003230118.jpg",
+        "output": "themes/forbidden-love/logo-v1.webp",
+        "width": 1000,
+        "height": 170,
+        "alpha": true,
+        "visible_bbox_ratio": 0.18718484383890063,
+        "bytes": 27228,
+        "cleanupAlgorithm": "dark"
+      },
+      "poster": {
+        "source": "forbidden-love-poster-v1_20261003230118.jpg",
+        "output": "themes/forbidden-love/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 56260
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/forbidden-love/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/forbidden-love/poster-v1.webp"
+    },
+    "magic-witchcraft": {
+      "slug": "magic-witchcraft",
+      "status": "ready",
+      "logo": {
+        "source": "magic-witchcraft-logo-v1_20261003230118.jpg",
+        "output": "themes/magic-witchcraft/logo-v1.webp",
+        "width": 1000,
+        "height": 179,
+        "alpha": true,
+        "visible_bbox_ratio": 0.9999867520591085,
+        "bytes": 48488,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "magic-witchcraft-poster-v1_20261003230118.jpg",
+        "output": "themes/magic-witchcraft/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 68276
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/magic-witchcraft/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/magic-witchcraft/poster-v1.webp"
+    },
+    "mythology": {
+      "slug": "mythology",
+      "status": "ready",
+      "logo": {
+        "source": "mythology-logo-v1_20261003230118.jpg",
+        "output": "themes/mythology/logo-v1.webp",
+        "width": 1000,
+        "height": 461,
+        "alpha": true,
+        "visible_bbox_ratio": 1.0,
+        "bytes": 42778,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "mythology-poster-v1_20261003230118.jpg",
+        "output": "themes/mythology/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 32382
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/mythology/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/mythology/poster-v1.webp"
+    },
+    "vampires": {
+      "slug": "vampires",
+      "status": "ready",
+      "logo": {
+        "source": "vampires-logo-v1_20261003230118.jpg",
+        "output": "themes/vampires/logo-v1.webp",
+        "width": 1000,
+        "height": 172,
+        "alpha": true,
+        "visible_bbox_ratio": 1.0,
+        "bytes": 31764,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "vampires-poster-v1_20261003230118.jpg",
+        "output": "themes/vampires/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 20652
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/vampires/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/vampires/poster-v1.webp"
+    },
+    "zombies": {
+      "slug": "zombies",
+      "status": "ready",
+      "logo": {
+        "source": "zombies-logo-v1_20261003230118.jpg",
+        "output": "themes/zombies/logo-v1.webp",
+        "width": 1000,
+        "height": 239,
+        "alpha": true,
+        "visible_bbox_ratio": 0.6204076959181202,
+        "bytes": 37096,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "zombies-poster-v1_20261003230118.jpg",
+        "output": "themes/zombies/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 42540
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/zombies/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/zombies/poster-v1.webp"
+    },
+    "superhero": {
+      "slug": "superhero",
+      "status": "ready",
+      "logo": {
+        "source": "superhero-logo-v1_20261003230118.jpg",
+        "output": "themes/superhero/logo-v1.webp",
+        "width": 1000,
+        "height": 180,
+        "alpha": true,
+        "visible_bbox_ratio": 0.9049129042514535,
+        "bytes": 31486,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "superhero-poster-v1_20261003230118.jpg",
+        "output": "themes/superhero/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 56308
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/superhero/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/superhero/poster-v1.webp"
+    },
+    "satire": {
+      "slug": "satire",
+      "status": "ready",
+      "logo": {
+        "source": "satire-logo-v1_20261003230118.jpg",
+        "output": "themes/satire/logo-v1.webp",
+        "width": 1000,
+        "height": 441,
+        "alpha": true,
+        "visible_bbox_ratio": 1.0,
+        "bytes": 24772,
+        "cleanupAlgorithm": "adaptive"
+      },
+      "poster": {
+        "source": "satire-poster-v1_20261003230118.jpg",
+        "output": "themes/satire/poster-v1.webp",
+        "width": 480,
+        "height": 860,
+        "alpha": false,
+        "bytes": 14610
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/satire/logo-v1.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/satire/poster-v1.webp"
+    }
+  }
+}
