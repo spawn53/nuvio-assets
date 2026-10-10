@@ -5,23 +5,113 @@
   "themes": {
     "time-travel": {
       "slug": "time-travel",
-      "status": "missing"
+      "status": "ready",
+      "logo": {
+        "source": "metallisches_zeitreise_logo_mit_uhrwerk.png",
+        "output": "themes/time-travel/logo-v3.webp",
+        "width": 1000,
+        "height": 349,
+        "alpha": true,
+        "bytes": 126430
+      },
+      "poster": {
+        "source": "goldene_uhr_des_zeitenportals.png",
+        "output": "themes/time-travel/poster-v2.webp",
+        "width": 480,
+        "height": 720,
+        "alpha": false,
+        "bytes": 91500
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/time-travel/logo-v3.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/time-travel/poster-v2.webp"
     },
     "artificial-intelligence": {
       "slug": "artificial-intelligence",
-      "status": "missing"
+      "status": "ready",
+      "logo": {
+        "source": "künstliches_intelligenz_emblem_mit_leuchtender_ki.png",
+        "output": "themes/artificial-intelligence/logo-v3.webp",
+        "width": 1000,
+        "height": 307,
+        "alpha": true,
+        "bytes": 77426
+      },
+      "poster": {
+        "source": "erhabene_ki_göttin_im_leuchtenden_techno_halo.png",
+        "output": "themes/artificial-intelligence/poster-v2.webp",
+        "width": 480,
+        "height": 720,
+        "alpha": false,
+        "bytes": 70588
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/artificial-intelligence/logo-v3.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/artificial-intelligence/poster-v2.webp"
     },
     "parallel-worlds": {
       "slug": "parallel-worlds",
-      "status": "missing"
+      "status": "ready",
+      "logo": {
+        "source": "parallele_welten_metallisches_orbital_logo.png",
+        "output": "themes/parallel-worlds/logo-v3.webp",
+        "width": 1000,
+        "height": 336,
+        "alpha": true,
+        "bytes": 82990
+      },
+      "poster": {
+        "source": "spiegelwelten_am_leuchtenden_portal.png",
+        "output": "themes/parallel-worlds/poster-v2.webp",
+        "width": 480,
+        "height": 720,
+        "alpha": false,
+        "bytes": 62660
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/parallel-worlds/logo-v3.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/parallel-worlds/poster-v2.webp"
     },
     "alternate-reality": {
       "slug": "alternate-reality",
-      "status": "missing"
+      "status": "ready",
+      "logo": {
+        "source": "alternativrealität_portal_der_zerbrochenen_welten.png",
+        "output": "themes/alternate-reality/logo-v3.webp",
+        "width": 1000,
+        "height": 337,
+        "alpha": true,
+        "bytes": 98308
+      },
+      "poster": {
+        "source": "zerbrochenes_portal_zwischen_welten.png",
+        "output": "themes/alternate-reality/poster-v2.webp",
+        "width": 480,
+        "height": 720,
+        "alpha": false,
+        "bytes": 81978
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/alternate-reality/logo-v3.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/alternate-reality/poster-v2.webp"
     },
     "dystopia": {
       "slug": "dystopia",
-      "status": "missing"
+      "status": "ready",
+      "logo": {
+        "source": "dystopia_industrielles_skyline_emblem.png",
+        "output": "themes/dystopia/logo-v3.webp",
+        "width": 1000,
+        "height": 374,
+        "alpha": true,
+        "bytes": 98850
+      },
+      "poster": {
+        "source": "dystopische_megastadt_im_smog.png",
+        "output": "themes/dystopia/poster-v2.webp",
+        "width": 480,
+        "height": 720,
+        "alpha": false,
+        "bytes": 48560
+      },
+      "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/dystopia/logo-v3.webp",
+      "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/dystopia/poster-v2.webp"
     },
     "post-apocalyptic": {
       "slug": "post-apocalyptic",
@@ -152,7 +242,7 @@
         "width": 1000,
         "height": 389,
         "alpha": true,
-        "visible_bbox_ratio": 1.0,
+        "visible_bbox_ratio": 1,
         "bytes": 29662,
         "cleanupAlgorithm": "adaptive"
       },
@@ -464,7 +554,7 @@
         "width": 1000,
         "height": 128,
         "alpha": true,
-        "visible_bbox_ratio": 1.0,
+        "visible_bbox_ratio": 1,
         "bytes": 32368,
         "cleanupAlgorithm": "adaptive"
       },
@@ -488,7 +578,7 @@
         "width": 1000,
         "height": 377,
         "alpha": true,
-        "visible_bbox_ratio": 1.0,
+        "visible_bbox_ratio": 1,
         "bytes": 26718,
         "cleanupAlgorithm": "adaptive"
       },
@@ -536,7 +626,7 @@
         "width": 1000,
         "height": 220,
         "alpha": true,
-        "visible_bbox_ratio": 1.0,
+        "visible_bbox_ratio": 1,
         "bytes": 47248,
         "cleanupAlgorithm": "adaptive"
       },
@@ -560,7 +650,7 @@
         "width": 1000,
         "height": 130,
         "alpha": true,
-        "visible_bbox_ratio": 1.0,
+        "visible_bbox_ratio": 1,
         "bytes": 22062,
         "cleanupAlgorithm": "adaptive"
       },
@@ -632,7 +722,7 @@
         "width": 1000,
         "height": 405,
         "alpha": true,
-        "visible_bbox_ratio": 1.0,
+        "visible_bbox_ratio": 1,
         "bytes": 51222,
         "cleanupAlgorithm": "adaptive"
       },
@@ -728,7 +818,7 @@
         "width": 1000,
         "height": 461,
         "alpha": true,
-        "visible_bbox_ratio": 1.0,
+        "visible_bbox_ratio": 1,
         "bytes": 42778,
         "cleanupAlgorithm": "adaptive"
       },
@@ -752,7 +842,7 @@
         "width": 1000,
         "height": 172,
         "alpha": true,
-        "visible_bbox_ratio": 1.0,
+        "visible_bbox_ratio": 1,
         "bytes": 31764,
         "cleanupAlgorithm": "adaptive"
       },
@@ -824,7 +914,7 @@
         "width": 1000,
         "height": 441,
         "alpha": true,
-        "visible_bbox_ratio": 1.0,
+        "visible_bbox_ratio": 1,
         "bytes": 24772,
         "cleanupAlgorithm": "adaptive"
       },
@@ -838,6 +928,10 @@
       },
       "logoUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/satire/logo-v1.webp",
       "posterUrl": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main/themes/satire/poster-v1.webp"
+    },
+    "visually-stunning": {
+      "slug": "visually-stunning",
+      "status": "missing"
     }
   }
 }

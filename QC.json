@@ -1,20 +1,12 @@
 {
-  "themeFolderCount": 39,
-  "readyAssetPairs": 34,
+  "themeFolderCount": 40,
+  "readyAssetPairs": 39,
   "missingAssetPairs": [
-    "time-travel",
-    "artificial-intelligence",
-    "parallel-worlds",
-    "alternate-reality",
-    "dystopia"
+    "visually-stunning"
   ],
-  "collectionArtworkUpdated": 34,
+  "collectionArtworkUpdated": 39,
   "collectionArtworkUntouched": [
-    "Time Travel",
-    "Artificial Intelligence",
-    "Parallel Worlds",
-    "Alternate Reality",
-    "Dystopia"
+    "Visually Stunning"
   ],
   "redemptionPosterMappedFrom": "Hand_holding_white_flower_20261003230118.jpg",
   "allGeneratedLogosWebPAlpha": true,
@@ -22,123 +14,123 @@
   "logoCleanup": "hybrid-dark/adaptive",
   "logoCleanupMeta": {
     "post-apocalyptic": {
-      "bgLow": 50.0,
-      "bgHigh": 107.0,
+      "bgLow": 50,
+      "bgHigh": 107,
       "algorithm": "adaptive"
     },
     "cyberpunk": {
       "bgLow": 72.33333587646484,
-      "bgHigh": 104.0,
+      "bgHigh": 104,
       "algorithm": "adaptive"
     },
     "space": {
-      "bgLow": 46.0,
-      "bgHigh": 100.0,
+      "bgLow": 46,
+      "bgHigh": 100,
       "algorithm": "adaptive"
     },
     "aliens-first-contact": {
-      "bgLow": 1.0,
-      "bgHigh": 61.0,
+      "bgLow": 1,
+      "bgHigh": 61,
       "algorithm": "dark"
     },
     "human-vs-technology": {
-      "bgLow": 36.0,
-      "bgHigh": 91.0,
+      "bgLow": 36,
+      "bgHigh": 91,
       "algorithm": "adaptive"
     },
     "revenge": {
-      "bgLow": 193.0,
-      "bgHigh": 213.0,
+      "bgLow": 193,
+      "bgHigh": 213,
       "algorithm": "adaptive"
     },
     "spy-espionage": {
-      "bgLow": 5.0,
-      "bgHigh": 59.0,
+      "bgLow": 5,
+      "bgHigh": 59,
       "algorithm": "dark"
     },
     "conspiracy": {
       "bgLow": 33.33333206176758,
-      "bgHigh": 98.0,
+      "bgHigh": 98,
       "algorithm": "adaptive"
     },
     "heist": {
-      "bgLow": 102.0,
-      "bgHigh": 145.0,
+      "bgLow": 102,
+      "bgHigh": 145,
       "algorithm": "adaptive"
     },
     "prison-escape": {
-      "bgLow": 23.0,
-      "bgHigh": 85.0,
+      "bgLow": 23,
+      "bgHigh": 85,
       "algorithm": "adaptive"
     },
     "serial-killers": {
-      "bgLow": 41.0,
-      "bgHigh": 97.0,
+      "bgLow": 41,
+      "bgHigh": 97,
       "algorithm": "adaptive"
     },
     "organized-crime": {
-      "bgLow": 35.0,
+      "bgLow": 35,
       "bgHigh": 92.33333587646484,
       "algorithm": "adaptive"
     },
     "political-intrigue": {
-      "bgLow": 28.0,
-      "bgHigh": 94.0,
+      "bgLow": 28,
+      "bgHigh": 94,
       "algorithm": "adaptive"
     },
     "cults-secret-societies": {
-      "bgLow": 2.0,
-      "bgHigh": 54.0,
+      "bgLow": 2,
+      "bgHigh": 54,
       "algorithm": "dark"
     },
     "survival": {
-      "bgLow": 2.0,
-      "bgHigh": 64.0,
+      "bgLow": 2,
+      "bgHigh": 64,
       "algorithm": "dark"
     },
     "treasure-hunt": {
-      "bgLow": 78.0,
+      "bgLow": 78,
       "bgHigh": 134.6666717529297,
       "algorithm": "adaptive"
     },
     "road-themed": {
-      "bgLow": 16.0,
+      "bgLow": 16,
       "bgHigh": 83.66666412353516,
       "algorithm": "adaptive"
     },
     "disaster": {
-      "bgLow": 67.0,
-      "bgHigh": 138.0,
+      "bgLow": 67,
+      "bgHigh": 138,
       "algorithm": "adaptive"
     },
     "lost-stranded": {
-      "bgLow": 100.0,
+      "bgLow": 100,
       "bgHigh": 149.6666717529297,
       "algorithm": "adaptive"
     },
     "memory-identity": {
-      "bgLow": 97.0,
+      "bgLow": 97,
       "bgHigh": 145.3333282470703,
       "algorithm": "adaptive"
     },
     "obsession": {
       "bgLow": 71.33333587646484,
-      "bgHigh": 125.0,
+      "bgHigh": 125,
       "algorithm": "adaptive"
     },
     "hidden-identity": {
-      "bgLow": 84.0,
-      "bgHigh": 134.0,
+      "bgLow": 84,
+      "bgHigh": 134,
       "algorithm": "adaptive"
     },
     "dreams-reality": {
-      "bgLow": 86.0,
-      "bgHigh": 133.0,
+      "bgLow": 86,
+      "bgHigh": 133,
       "algorithm": "adaptive"
     },
     "family-secrets": {
-      "bgLow": 68.0,
-      "bgHigh": 118.0,
+      "bgLow": 68,
+      "bgHigh": 118,
       "algorithm": "adaptive"
     },
     "coming-of-age": {
@@ -147,48 +139,48 @@
       "algorithm": "adaptive"
     },
     "found-family": {
-      "bgLow": 87.0,
+      "bgLow": 87,
       "bgHigh": 140.3333282470703,
       "algorithm": "adaptive"
     },
     "redemption": {
-      "bgLow": 84.0,
-      "bgHigh": 132.0,
+      "bgLow": 84,
+      "bgHigh": 132,
       "algorithm": "adaptive"
     },
     "forbidden-love": {
-      "bgLow": 2.0,
-      "bgHigh": 48.0,
+      "bgLow": 2,
+      "bgHigh": 48,
       "algorithm": "dark"
     },
     "magic-witchcraft": {
-      "bgLow": 85.0,
-      "bgHigh": 136.0,
+      "bgLow": 85,
+      "bgHigh": 136,
       "algorithm": "adaptive"
     },
     "mythology": {
       "bgLow": 84.33333587646484,
-      "bgHigh": 128.0,
+      "bgHigh": 128,
       "algorithm": "adaptive"
     },
     "vampires": {
-      "bgLow": 98.0,
+      "bgLow": 98,
       "bgHigh": 154.3333282470703,
       "algorithm": "adaptive"
     },
     "zombies": {
-      "bgLow": 53.0,
-      "bgHigh": 97.0,
+      "bgLow": 53,
+      "bgHigh": 97,
       "algorithm": "adaptive"
     },
     "superhero": {
-      "bgLow": 68.0,
-      "bgHigh": 124.0,
+      "bgLow": 68,
+      "bgHigh": 124,
       "algorithm": "adaptive"
     },
     "satire": {
       "bgLow": 93.33333587646484,
-      "bgHigh": 134.0,
+      "bgHigh": 134,
       "algorithm": "adaptive"
     }
   },
@@ -229,5 +221,7 @@
     "superhero": 0,
     "satire": 0
   },
-  "totalRemoteSpeckPixelsRemoved": 0
+  "totalRemoteSpeckPixelsRemoved": 0,
+  "lastPublishedBatch": "2026-10-10-five-themes-v3",
+  "lastPublishedFiles": 10
 }
