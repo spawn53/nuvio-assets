@@ -931,7 +931,26 @@
     },
     "visually-stunning": {
       "slug": "visually-stunning",
-      "status": "missing"
+      "status": "ready",
+      "poster": {
+        "output": "themes/visually-stunning/v1/visually-stunning-poster.webp",
+        "width": 600,
+        "height": 900
+      },
+      "logo": {
+        "output": "themes/visually-stunning/v1/visually-stunning-logo.png",
+        "width": 1320,
+        "height": 380,
+        "alpha": true
+      },
+      "hero": {
+        "output": "themes/visually-stunning/v1/visually-stunning-hero.jpg",
+        "width": 1600,
+        "height": 900
+      },
+      "logoUrl": "https://raw.githubusercontent.com/spawn53/nuvio-assets/main/themes/visually-stunning/v1/visually-stunning-logo.png",
+      "posterUrl": "https://raw.githubusercontent.com/spawn53/nuvio-assets/main/themes/visually-stunning/v1/visually-stunning-poster.webp",
+      "heroUrl": "https://raw.githubusercontent.com/spawn53/nuvio-assets/main/themes/visually-stunning/v1/visually-stunning-hero.jpg"
     }
   }
 }

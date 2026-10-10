@@ -1,0 +1,58 @@
+{
+  "schemaVersion": 1,
+  "category": "Moods & Vibes",
+  "published": "2026-10-11",
+  "note": "5 original film-inspired compositions (not licensed film stills); static JPG hover overlay and transparent PNG title logos.",
+  "items": {
+    "cerebral-thought-provoking": {
+      "cover": "moods-and-vibes/cerebral-thought-provoking/v1/cerebral-thought-provoking-cover.jpg",
+      "hover": "moods-and-vibes/cerebral-thought-provoking/v1/cerebral-thought-provoking-hover.jpg",
+      "logo": "moods-and-vibes/cerebral-thought-provoking/v1/cerebral-thought-provoking-logo.png",
+      "sha": [
+        "85e15528d5f4760a29139cca1a78582e8484ac12",
+        "8fdd4eef517c9b161e3c777e88e692decae7b60c",
+        "0c6bd12510f0c8c6a2c004799d2756710cda246d"
+      ]
+    },
+    "atmospheric": {
+      "cover": "moods-and-vibes/atmospheric/v1/atmospheric-cover.jpg",
+      "hover": "moods-and-vibes/atmospheric/v1/atmospheric-hover.jpg",
+      "logo": "moods-and-vibes/atmospheric/v1/atmospheric-logo.png",
+      "sha": [
+        "2672341c3916b126fbfa5eeb02ffcc9deb6c2e5e",
+        "a718c27d64f234587ecb00b1e03af8405e94157b",
+        "7c69b4b794d2a1f81e7641a609ac56a1dceb87f0"
+      ]
+    },
+    "suspenseful-intense": {
+      "cover": "moods-and-vibes/suspenseful-intense/v1/suspenseful-intense-cover.jpg",
+      "hover": "moods-and-vibes/suspenseful-intense/v1/suspenseful-intense-hover.jpg",
+      "logo": "moods-and-vibes/suspenseful-intense/v1/suspenseful-intense-logo.png",
+      "sha": [
+        "56df277968745819742a3212d731cb136fae373f",
+        "89e883f34a80f3a21059acc00568f47e161d304e",
+        "efa1199bee561944812cccd132ebc91283974229"
+      ]
+    },
+    "melancholic-bittersweet": {
+      "cover": "moods-and-vibes/melancholic-bittersweet/v1/melancholic-bittersweet-cover.jpg",
+      "hover": "moods-and-vibes/melancholic-bittersweet/v1/melancholic-bittersweet-hover.jpg",
+      "logo": "moods-and-vibes/melancholic-bittersweet/v1/melancholic-bittersweet-logo.png",
+      "sha": [
+        "b5b316ff88c89aeb3032e4c4be7b40827e8220c0",
+        "db6d085a1ab35fe05765685cf7c939293b2aa669",
+        "1cedddecfedc908a3d8d87aad5d186518e7e67f5"
+      ]
+    },
+    "weird-strange": {
+      "cover": "moods-and-vibes/weird-strange/v1/weird-strange-cover.jpg",
+      "hover": "moods-and-vibes/weird-strange/v1/weird-strange-hover.jpg",
+      "logo": "moods-and-vibes/weird-strange/v1/weird-strange-logo.png",
+      "sha": [
+        "9ccddbf4c296428dd8f2f196d47d3635ccf83d32",
+        "9b220bf37d43c950f3caac3b3b75992a7aca3b04",
+        "c4e013b261620918ba0154c5fc81bbf4deee0a76"
+      ]
+    }
+  }
+}

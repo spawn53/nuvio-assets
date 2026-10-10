@@ -1,13 +1,9 @@
 {
   "themeFolderCount": 40,
-  "readyAssetPairs": 39,
-  "missingAssetPairs": [
-    "visually-stunning"
-  ],
-  "collectionArtworkUpdated": 39,
-  "collectionArtworkUntouched": [
-    "Visually Stunning"
-  ],
+  "readyAssetPairs": 40,
+  "missingAssetPairs": [],
+  "collectionArtworkUpdated": 40,
+  "collectionArtworkUntouched": [],
   "redemptionPosterMappedFrom": "Hand_holding_white_flower_20261003230118.jpg",
   "allGeneratedLogosWebPAlpha": true,
   "allGeneratedPostersWebP": true,
@@ -222,6 +218,6 @@
     "satire": 0
   },
   "totalRemoteSpeckPixelsRemoved": 0,
-  "lastPublishedBatch": "2026-10-10-five-themes-v3",
-  "lastPublishedFiles": 10
+  "lastPublishedBatch": "2026-10-11-moods-themes-completion",
+  "lastPublishedFiles": 18
 }
