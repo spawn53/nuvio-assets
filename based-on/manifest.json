@@ -1,0 +1,65 @@
+{
+  "version": 1,
+  "published": "2026-10-11",
+  "category": "Based On",
+  "format": "Kaptain-inspired 16:9 cover+hover and transparent logo",
+  "note": "Film-inspired, newly generated visual compositions; not original movie frames or licensed film stills.",
+  "folders": {
+    "biographies-biopics": {
+      "cover": {
+        "path": "based-on/biographies-biopics/v1/biographies-biopics-cover.jpg",
+        "sha": "73083e9be0f3cc49111f042b208e1f45b395806a"
+      },
+      "hover": {
+        "path": "based-on/biographies-biopics/v1/biographies-biopics-hover.jpg",
+        "sha": "4b41a9d85cce3e054cfd5ad7b9d46052b8a15ec4"
+      },
+      "logo": {
+        "path": "based-on/biographies-biopics/v1/biographies-biopics-logo.png",
+        "sha": "a53defed3b961bed3f432ed2fba2d986ffd2e90f"
+      }
+    },
+    "manga": {
+      "cover": {
+        "path": "based-on/manga/v1/manga-cover.jpg",
+        "sha": "f1677f7b5a38fd389970c428f661dedfd81eddfb"
+      },
+      "hover": {
+        "path": "based-on/manga/v1/manga-hover.jpg",
+        "sha": "06c035a9d103ddfc543f4855472688bc9ccf0208"
+      },
+      "logo": {
+        "path": "based-on/manga/v1/manga-logo.png",
+        "sha": "eb6199ca4245929a87cf0aa4509bc3d61800eace"
+      }
+    },
+    "webtoon-webcomic": {
+      "cover": {
+        "path": "based-on/webtoon-webcomic/v1/webtoon-webcomic-cover.jpg",
+        "sha": "f2c078e530a4ba89f4b50f363312d39d5e7daeb9"
+      },
+      "hover": {
+        "path": "based-on/webtoon-webcomic/v1/webtoon-webcomic-hover.jpg",
+        "sha": "57f65c87c8e1ce1d4287ded3740953d9288cc5b1"
+      },
+      "logo": {
+        "path": "based-on/webtoon-webcomic/v1/webtoon-webcomic-logo.png",
+        "sha": "f672f642c1941a284a4b10faf8d1a7388493936b"
+      }
+    },
+    "songs-poems-rhymes": {
+      "cover": {
+        "path": "based-on/songs-poems-rhymes/v1/songs-poems-rhymes-cover.jpg",
+        "sha": "cad8cbd51a31b1007b6199a923ab3a36a6f672dd"
+      },
+      "hover": {
+        "path": "based-on/songs-poems-rhymes/v1/songs-poems-rhymes-hover.jpg",
+        "sha": "befd1937e9587e49b57f0f5c4ca4817fb16d03d1"
+      },
+      "logo": {
+        "path": "based-on/songs-poems-rhymes/v1/songs-poems-rhymes-logo.png",
+        "sha": "281eec9ae88d8c4138954b2a72be109cd79ee79a"
+      }
+    }
+  }
+}
