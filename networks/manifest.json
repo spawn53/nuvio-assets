@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "createdOn": "2026-10-10",
+  "description": "Nuvio Networks missing artworks. Originals-inspired minimal emblems; covers, transparent title logos and widescreen hero backdrops.",
+  "cdnBase": "https://cdn.jsdelivr.net/gh/spawn53/nuvio-assets@main",
+  "channels": {
+    "trt": {
+      "poster-v1.webp": {
+        "path": "networks/trt/poster-v1.webp",
+        "sha": "16d9b947ab728d4b93dd815fea4abdb7c45bdfed"
+      },
+      "logo-v1.webp": {
+        "path": "networks/trt/logo-v1.webp",
+        "sha": "24d7d149bc77e5c68369cffdf9bb17f193ffcadc"
+      },
+      "hero-v1.webp": {
+        "path": "networks/trt/hero-v1.webp",
+        "sha": "8a95113174d95ed39bdc52045e47bfe3d99789a5"
+      }
+    },
+    "kanal-d": {
+      "poster-v1.webp": {
+        "path": "networks/kanal-d/poster-v1.webp",
+        "sha": "dfa628a5d0a320e778b12fdf13f655c5c39448aa"
+      },
+      "logo-v1.webp": {
+        "path": "networks/kanal-d/logo-v1.webp",
+        "sha": "83c75b28451dc52282343838ccc4a6226e9bc956"
+      },
+      "hero-v1.webp": {
+        "path": "networks/kanal-d/hero-v1.webp",
+        "sha": "1f47aa01baabf52afa6cadb8bb38f6c086cff9eb"
+      }
+    },
+    "show-tv": {
+      "poster-v1.webp": {
+        "path": "networks/show-tv/poster-v1.webp",
+        "sha": "d2239b000e2faec018b0d852b6c3cae35b916df2"
+      },
+      "logo-v1.webp": {
+        "path": "networks/show-tv/logo-v1.webp",
+        "sha": "3310138e90cb2e60af2d8af524e60cd0e00d939f"
+      },
+      "hero-v1.webp": {
+        "path": "networks/show-tv/hero-v1.webp",
+        "sha": "20ea2e8acfe699a85f98b4514f724c2f06fd44f5"
+      }
+    },
+    "star-tv": {
+      "poster-v1.webp": {
+        "path": "networks/star-tv/poster-v1.webp",
+        "sha": "4c41bd8b58962c49ef855db134ac738804c4fe5b"
+      },
+      "logo-v1.webp": {
+        "path": "networks/star-tv/logo-v1.webp",
+        "sha": "d6f2c8489ec86b7aba937ae70185bcbda479701e"
+      },
+      "hero-v1.webp": {
+        "path": "networks/star-tv/hero-v1.webp",
+        "sha": "59100df214b9f274a4a1d0beeede5a56cb794636"
+      }
+    },
+    "atv": {
+      "poster-v1.webp": {
+        "path": "networks/atv/poster-v1.webp",
+        "sha": "05b5430a65f99f42892a83d4a2a0e0740aa42c56"
+      },
+      "logo-v1.webp": {
+        "path": "networks/atv/logo-v1.webp",
+        "sha": "ad7af0af3fe696aacdd73aef23285f452a10e768"
+      },
+      "hero-v1.webp": {
+        "path": "networks/atv/hero-v1.webp",
+        "sha": "f79886dd3ccf38b0f9b167c1e4f06978868ac136"
+      }
+    },
+    "now-turkiye": {
+      "poster-v1.webp": {
+        "path": "networks/now-turkiye/poster-v1.webp",
+        "sha": "a3e85e5121576d09a3e272cb55260e084fab795f"
+      },
+      "logo-v1.webp": {
+        "path": "networks/now-turkiye/logo-v1.webp",
+        "sha": "c325ec1bf22e31f0d3510310b6ca7e3c842b2295"
+      },
+      "hero-v1.webp": {
+        "path": "networks/now-turkiye/hero-v1.webp",
+        "sha": "8f4f15f04343762071d3b7237e2a38cb1336c71c"
+      }
+    },
+    "network-charts": {
+      "poster-v1.webp": {
+        "path": "networks/network-charts/poster-v1.webp",
+        "sha": "0da77a3ff84e06b588cbacd7540e337c8083e581"
+      },
+      "logo-v1.webp": {
+        "path": "networks/network-charts/logo-v1.webp",
+        "sha": "e7b30eca71ebb043d96c15204bf838f869193d99"
+      },
+      "hero-v1.webp": {
+        "path": "networks/network-charts/hero-v1.webp",
+        "sha": "f68ff43c50cdc9197094f6020e6f6d09d61dd08a"
+      }
+    }
+  }
+}
