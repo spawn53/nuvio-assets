@@ -1,0 +1,21 @@
+{
+  "category": "Canon, Awards & Festivals",
+  "folder": "Filmekimi",
+  "version": "v1",
+  "date": "2026-10-12",
+  "notes": "A cinematic Istanbul-inspired cover and static hover, with a transparent white/red title logo optimized for black backgrounds. No date or URL text in logo.",
+  "assets": {
+    "coverImageUrl": {
+      "path": "awards/filmekimi/v1/filmekimi-cover-v1.webp",
+      "sha": "c16da92a1422bf35336c3f3e723725c277e6aa1a"
+    },
+    "focusGifUrl, heroBackdropUrl": {
+      "path": "awards/filmekimi/v1/filmekimi-hover-v1.webp",
+      "sha": "31eebdd62503458986a3d62d669a4bdc677c36c4"
+    },
+    "titleLogoUrl": {
+      "path": "awards/filmekimi/v1/filmekimi-title-logo-white-red-v1.png",
+      "sha": "d1bb89a0c5baa729df4944f58f05e2c4d1858f0c"
+    }
+  }
+}
