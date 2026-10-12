@@ -1,0 +1,175 @@
+{
+  "date": "2026-10-12",
+  "description": "12 Nuvio folder visual sets; 16:9 WebP covers, static hover, transparent title logos",
+  "count": 12,
+  "assets": {
+    "world-cinema-now": {
+      "cover": {
+        "path": "international-cinema/world-cinema-now/v1/cover-v1.webp",
+        "sha": "62b67fce57f06ac17d47e08376a41dbbd0630db4"
+      },
+      "hover": {
+        "path": "international-cinema/world-cinema-now/v1/hover-v1.webp",
+        "sha": "4fcbaf8affce0cfb34028658f90aebb05c88ffaa"
+      },
+      "logo": {
+        "path": "international-cinema/world-cinema-now/v1/logo-v1.png",
+        "sha": "f524b7aa3c84fd69046d0797afd29fa93c08527c"
+      }
+    },
+    "british-irish-cinema": {
+      "cover": {
+        "path": "international-cinema/british-irish-cinema/v1/cover-v1.webp",
+        "sha": "9525c93a5f98bf844ae832eca2597fa92ae1463a"
+      },
+      "hover": {
+        "path": "international-cinema/british-irish-cinema/v1/hover-v1.webp",
+        "sha": "34a8fefb35a1bcb665a1472717a61e974e889f57"
+      },
+      "logo": {
+        "path": "international-cinema/british-irish-cinema/v1/logo-v1.png",
+        "sha": "196d204ccc387f1cdff27a571eae9af7dafafd52"
+      }
+    },
+    "western-european-cinema": {
+      "cover": {
+        "path": "international-cinema/western-european-cinema/v1/cover-v1.webp",
+        "sha": "f9d1e8b0e7ed67b4044fa6688336c9ffbb9299ac"
+      },
+      "hover": {
+        "path": "international-cinema/western-european-cinema/v1/hover-v1.webp",
+        "sha": "47cadc48bfecaa92ddb52d27a69d958e433e50ac"
+      },
+      "logo": {
+        "path": "international-cinema/western-european-cinema/v1/logo-v1.png",
+        "sha": "b3b5cfb2874d06bb6e27a0e75c6e97cff5f0353a"
+      }
+    },
+    "eastern-european-cinema": {
+      "cover": {
+        "path": "international-cinema/eastern-european-cinema/v1/cover-v1.webp",
+        "sha": "3c85ec5f3f13e78421d77739cce76e5dde37dff5"
+      },
+      "hover": {
+        "path": "international-cinema/eastern-european-cinema/v1/hover-v1.webp",
+        "sha": "4ae07d8d98bef635fcf090282a886f439b989fdc"
+      },
+      "logo": {
+        "path": "international-cinema/eastern-european-cinema/v1/logo-v1.png",
+        "sha": "2b00c805596974358fe2f23784e150ddc62a2f16"
+      }
+    },
+    "balkan-cinema": {
+      "cover": {
+        "path": "international-cinema/balkan-cinema/v1/cover-v1.webp",
+        "sha": "d3ed0d02a844d992c3e27fc95aedc062c769c601"
+      },
+      "hover": {
+        "path": "international-cinema/balkan-cinema/v1/hover-v1.webp",
+        "sha": "18e6451535fd02dacfe68948fab1d71847703cd9"
+      },
+      "logo": {
+        "path": "international-cinema/balkan-cinema/v1/logo-v1.png",
+        "sha": "35fee3ba44d1e2e4c38901eb8aadcfa147da2174"
+      }
+    },
+    "oceania-cinema": {
+      "cover": {
+        "path": "international-cinema/oceania-cinema/v1/cover-v1.webp",
+        "sha": "2541904e7c186bbf7a793565bb9b1db9a797b6f9"
+      },
+      "hover": {
+        "path": "international-cinema/oceania-cinema/v1/hover-v1.webp",
+        "sha": "99a488c235068a5e08351be9ba1e887ce2a82d8f"
+      },
+      "logo": {
+        "path": "international-cinema/oceania-cinema/v1/logo-v1.png",
+        "sha": "44c14c07131ca3c9e7d0353ca32a3e51e760b8f0"
+      }
+    },
+    "awards-now": {
+      "cover": {
+        "path": "canon-awards-festivals/awards-now/v1/cover-v1.webp",
+        "sha": "44835f46e1698f576907f4ddee2ab18ae51406fc"
+      },
+      "hover": {
+        "path": "canon-awards-festivals/awards-now/v1/hover-v1.webp",
+        "sha": "508554fd6e4b0490f8cfb3ef56838eb9d4680d75"
+      },
+      "logo": {
+        "path": "canon-awards-festivals/awards-now/v1/logo-v1.png",
+        "sha": "eb5a3da563f21c095ebb5db29d647c36e3f9af18"
+      }
+    },
+    "film-canon-master-lists": {
+      "cover": {
+        "path": "canon-awards-festivals/film-canon-master-lists/v1/cover-v1.webp",
+        "sha": "b1a254fcdadab45cda64754dde14379d6530c982"
+      },
+      "hover": {
+        "path": "canon-awards-festivals/film-canon-master-lists/v1/hover-v1.webp",
+        "sha": "461610d15571c9db3fa5673b6d9a6ffad3fdcfaf"
+      },
+      "logo": {
+        "path": "canon-awards-festivals/film-canon-master-lists/v1/logo-v1.png",
+        "sha": "3610692accc23090e947ac873a6a7ad45a906434"
+      }
+    },
+    "genre-discovery": {
+      "cover": {
+        "path": "genres/genre-discovery/v1/cover-v1.webp",
+        "sha": "bed09d1902c3e31d2d8856829bf32acfdc0bc1fa"
+      },
+      "hover": {
+        "path": "genres/genre-discovery/v1/hover-v1.webp",
+        "sha": "250b51423ea7c47273d057d5963f955e21068b3d"
+      },
+      "logo": {
+        "path": "genres/genre-discovery/v1/logo-v1.png",
+        "sha": "011138125f912aae458e734b2f463b3e31b60930"
+      }
+    },
+    "discover-documentaries": {
+      "cover": {
+        "path": "documentaries/discover-documentaries/v1/cover-v1.webp",
+        "sha": "236f043e8a68e662a41bf031749dcdc8b91888a4"
+      },
+      "hover": {
+        "path": "documentaries/discover-documentaries/v1/hover-v1.webp",
+        "sha": "16c4527c58b77e06226439f5f00f071cee8a22a5"
+      },
+      "logo": {
+        "path": "documentaries/discover-documentaries/v1/logo-v1.png",
+        "sha": "52b3ce2d329daed3b39ee1d6fb9127c094a3a963"
+      }
+    },
+    "politics-society": {
+      "cover": {
+        "path": "documentaries/politics-society/v1/cover-v1.webp",
+        "sha": "6b734573d39d901874389072faf1dd902be884e1"
+      },
+      "hover": {
+        "path": "documentaries/politics-society/v1/hover-v1.webp",
+        "sha": "fcb9fe5a90cef4f09e65cb3b712f350f5f775313"
+      },
+      "logo": {
+        "path": "documentaries/politics-society/v1/logo-v1.png",
+        "sha": "95a628f9fcc7f878db817ebf9522da940865b094"
+      }
+    },
+    "biography-portraits": {
+      "cover": {
+        "path": "documentaries/biography-portraits/v1/cover-v1.webp",
+        "sha": "18b33aa1408d9787a2300fd237f66c8fcce0b5ad"
+      },
+      "hover": {
+        "path": "documentaries/biography-portraits/v1/hover-v1.webp",
+        "sha": "44c312af91b9f08a3a4fafe77877a951f1be6b00"
+      },
+      "logo": {
+        "path": "documentaries/biography-portraits/v1/logo-v1.png",
+        "sha": "ad5219b4d7136e5afedbc3e27078204514808cdc"
+      }
+    }
+  }
+}
