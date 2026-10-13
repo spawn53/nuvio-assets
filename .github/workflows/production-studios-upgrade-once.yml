@@ -1,0 +1,29 @@
+name: Upgrade 5 studio marks from authoritative media
+on:
+  push:
+    branches: [artwork/production-studios-official-upgrade-20261013]
+    paths: [.github/workflows/production-studios-upgrade-once.yml]
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Download studio-provided media and build 5 assets
+        run: |
+          python -m pip install -q pillow==11.3.0 requests==2.32.5 cairosvg==2.8.2 numpy==2.3.4
+          python scripts/upgrade_production_studios_five.py
+      - name: Commit assets and remove temporary workflow
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add production-studios/
+          git rm --ignore-unmatch .github/workflows/production-studios-upgrade-once.yml
+          git commit -m "Artwork QC: 5 studios upgraded to real source marks v2 [skip ci]"
+          git pull --rebase origin artwork/production-studios-official-upgrade-20261013
+          git push origin HEAD:artwork/production-studios-official-upgrade-20261013
