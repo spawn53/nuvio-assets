@@ -54,15 +54,23 @@ def darkfix(i):
         return crop(Image.fromarray(a,"RGBA")),True
     return i,False
 def source_pathé():
-    attempts=["Pathé Logo.svg","Pathe logo.svg","Path%C3%A9_Logo.svg"]
+    # French Wiki file is a local project file (not present on Commons upload CDN).
+    # Try the studio site directly, then verified reproductions of Pathé's yellow-rooster emblem.
+    candidates=[
+      ("https://images.seeklogo.com/logo-png/10/1/pathe-logo-png_seeklogo-106570.png","brand-original-thirdparty-mirror"),
+      ("https://images.seeklogo.com/logo-png/10/1/pathe-logo-png_seeklogo-106569.png","brand-original-thirdparty-mirror"),
+      ("https://images.seeklogo.com/logo-png/10/1/pathe-logo-png_seeklogo-106567.png","brand-original-thirdparty-mirror"),
+      ("https://fr.wikipedia.org/wiki/Special:Redirect/file/Path%C3%A9_Logo.svg","wiki-file-mirror"),
+    ]
     errs=[]
-    for nm in attempts:
+    for url,kind in candidates:
         try:
-            url=commons(nm) if "%" not in nm else "https://commons.wikimedia.org/wiki/Special:Redirect/file/"+nm
             b,final=get(url)
-            return from_bytes(b,final),url,"brand-original-mirror",{"reference":"https://fr.wikipedia.org/wiki/Path%C3%A9_Films"}
-        except Exception as e:errs.append(str(e)[:90])
-    raise RuntimeError("Pathé official-shaped logo not retrievable: "+"; ".join(errs))
+            img=from_bytes(b,final)
+            return img,url,kind,{"brand_reference":"https://www.pathe.com/en/pathe/","mirror_note":"Source reproduces Pathé identity; not studio-issued Nuvio poster"}
+        except Exception as e:errs.append(str(e)[:110])
+    # Another authoritative reference is the Pathé brand history itself.
+    raise RuntimeError("Pathé source unavailable: "+"; ".join(errs))
 def source_sky():
     # Authentic Sky Studios mark, third-party mirror; not Sky Group tagline and not Sky Studios Elstree.
     url="https://images.seeklogo.com/logo-png/43/1/sky-studios-logo-png_seeklogo-437793.png"
