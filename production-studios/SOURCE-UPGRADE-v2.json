@@ -79,14 +79,15 @@
       679
     ],
     "background_removed": true,
-    "black_to_white_dark_ui_adaptation": false,
+    "black_to_white_dark_ui_adaptation": true,
     "rendered_files": [
       "poster-v2.webp",
       "logo-v2.png",
       "hover-v2.webp"
     ],
     "studio_logo_based": true,
-    "studio_issued_poster": false
+    "studio_issued_poster": false,
+    "contrast_qc": "PRODUCTIONS subtitle changed from near black to near white; original TIMSBI letterform and gold color preserved"
   },
   {
     "slug": "bkm-film",
