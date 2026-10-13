@@ -65,7 +65,8 @@
       "hover-v1.webp"
     ],
     "poster_and_hover_are_original_nuvio_compositions": true,
-    "logo_is_official_unmodified": true
+    "logo_is_official_unmodified": false,
+    "dark_ui_contrast_derivative": true
   },
   {
     "slug": "gain",
@@ -82,7 +83,8 @@
       "hover-v1.webp"
     ],
     "poster_and_hover_are_original_nuvio_compositions": true,
-    "logo_is_official_unmodified": false
+    "logo_is_official_unmodified": false,
+    "dark_ui_contrast_derivative": true
   },
   {
     "slug": "exxen",
@@ -99,7 +101,7 @@
       "hover-v1.webp"
     ],
     "poster_and_hover_are_original_nuvio_compositions": true,
-    "logo_is_official_unmodified": true
+    "logo_is_official_unmodified": false
   },
   {
     "slug": "puhutv",
@@ -118,7 +120,8 @@
       "hover-v1.webp"
     ],
     "poster_and_hover_are_original_nuvio_compositions": true,
-    "logo_is_official_unmodified": true
+    "logo_is_official_unmodified": false,
+    "dark_ui_contrast_derivative": true
   },
   {
     "slug": "tod",
@@ -169,7 +172,8 @@
       "hover-v1.webp"
     ],
     "poster_and_hover_are_original_nuvio_compositions": true,
-    "logo_is_official_unmodified": false
+    "logo_is_official_unmodified": false,
+    "dark_ui_contrast_derivative": true
   },
   {
     "slug": "britbox",
@@ -203,7 +207,8 @@
       "hover-v1.webp"
     ],
     "poster_and_hover_are_original_nuvio_compositions": true,
-    "logo_is_official_unmodified": false
+    "logo_is_official_unmodified": false,
+    "dark_ui_contrast_derivative": true
   },
   {
     "slug": "stan",
@@ -237,6 +242,7 @@
       "hover-v1.webp"
     ],
     "poster_and_hover_are_original_nuvio_compositions": true,
-    "logo_is_official_unmodified": false
+    "logo_is_official_unmodified": false,
+    "dark_ui_contrast_derivative": true
   }
 ]
