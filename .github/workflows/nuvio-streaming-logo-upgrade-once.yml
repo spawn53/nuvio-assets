@@ -1,0 +1,34 @@
+name: Upgrade BFI Player and TOD logos one-shot
+on:
+  push:
+    branches: [artwork/streaming-services-20261013]
+    paths:
+      - .github/workflows/nuvio-streaming-logo-upgrade-once.yml
+      - scripts/upgrade_bfi_tod_assets.py
+permissions:
+  contents: write
+concurrency:
+  group: streaming-brand-upgrade-20261013
+  cancel-in-progress: false
+jobs:
+  upgrade:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Pull and validate original brand sources
+        run: |
+          python -m pip install --disable-pip-version-check pillow==11.3.0 cairosvg==2.8.2 requests==2.32.5
+          python scripts/upgrade_bfi_tod_assets.py
+      - name: Commit source upgrades and retire temporary workflow
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add streaming-services/
+          git rm --ignore-unmatch .github/workflows/nuvio-streaming-logo-upgrade-once.yml
+          git commit -m "QC: use commissioned BFI Player identity and Digiturk source [skip ci]"
+          git pull --rebase origin artwork/streaming-services-20261013
+          git push origin HEAD:artwork/streaming-services-20261013
