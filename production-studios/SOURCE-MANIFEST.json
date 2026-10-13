@@ -136,7 +136,8 @@
     "notes": "Pathé film studio emblem",
     "contrast_modified": false,
     "download_errors": [
-      "HTTPError('404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/2/28/Pathe_logo.svg')"
+      "HTTPError('404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/2/28/Pathe_logo.svg')",
+      "official site retry: No first-party logo asset confidently located on official landing page"
     ],
     "poster_and_hover_are_derived_nuvio_compositions": true,
     "files": [
@@ -196,10 +197,10 @@
   {
     "slug": "sky-studios",
     "title": "Sky Studios",
-    "classification": "official-web",
-    "original_source": "https://static.skyassets.com/contentstack/assets/blt4b099fa9cc3801a6/blt9d3323ce874514b9/68bee476d2e6bb98e6d17d8c/Believe-in-better-logo-tagline-white.png?downsize=1024:*&output-format=jpg",
+    "classification": "alternative",
+    "original_source": null,
     "intended_source": "https://www.skygroup.sky/",
-    "notes": "Distinct Sky Studios brand, NOT Sky television network logo",
+    "notes": "Official Sky Studios-specific standalone logo not reliably retrieved; neutral letterform, NOT a Sky Group official logo.",
     "contrast_modified": false,
     "download_errors": [],
     "poster_and_hover_are_derived_nuvio_compositions": true,
@@ -218,7 +219,8 @@
     "notes": "ITV Studios studio identity, not ITV network",
     "contrast_modified": false,
     "download_errors": [
-      "HTTPError('404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/59/ITV_Studios.svg')"
+      "HTTPError('404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/59/ITV_Studios.svg')",
+      "official site retry: HTTPSConnectionPool(host='www.itv.com', port=443): Read timed out. (read timeout=23)"
     ],
     "poster_and_hover_are_derived_nuvio_compositions": true,
     "files": [
