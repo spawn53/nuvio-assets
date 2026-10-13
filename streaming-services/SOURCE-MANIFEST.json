@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "streaming-charts",
+    "title": "Streaming Charts",
+    "asset_classification": "editorial",
+    "source_file": null,
+    "source_url": null,
+    "source_detail": "Independent collection title; no corporate logo",
+    "legibility_outline_added": false,
+    "fetch_errors": [],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": false
+  },
+  {
+    "slug": "new-upcoming-turkiye",
+    "title": "New & Upcoming — Türkiye",
+    "asset_classification": "editorial",
+    "source_file": null,
+    "source_url": null,
+    "source_detail": "Independent Türkiye discovery collection",
+    "legibility_outline_added": false,
+    "fetch_errors": [],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": false
+  },
+  {
+    "slug": "sundance-now",
+    "title": "Sundance Now",
+    "asset_classification": "alternative",
+    "source_file": null,
+    "source_url": null,
+    "source_detail": "Official 2026 relaunch confirmed; exact reusable 2026 logo file not verified",
+    "legibility_outline_added": false,
+    "fetch_errors": [],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": false
+  },
+  {
+    "slug": "tabii",
+    "title": "tabii",
+    "asset_classification": "official-source",
+    "source_file": "Tabii logo.svg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Tabii_logo.svg",
+    "source_detail": "TRT tabii logo; Wikimedia cites TRT",
+    "legibility_outline_added": false,
+    "fetch_errors": [],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": true
+  },
+  {
+    "slug": "gain",
+    "title": "GAİN",
+    "asset_classification": "official-source",
+    "source_file": "GAİN LOGO.jpg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/GA%C4%B0N_LOGO.jpg",
+    "source_detail": "GAİN Medya-supplied logo; background removed; check current brand",
+    "legibility_outline_added": true,
+    "fetch_errors": [],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": false
+  },
+  {
+    "slug": "exxen",
+    "title": "Exxen",
+    "asset_classification": "official-source",
+    "source_file": "Exxen.png",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Exxen.png",
+    "source_detail": "Exxen logo sourced from exxen.com; black background removed",
+    "legibility_outline_added": false,
+    "fetch_errors": [],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": true
+  },
+  {
+    "slug": "puhutv",
+    "title": "puhutv",
+    "asset_classification": "official-source",
+    "source_file": "Puhutv logo.svg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Puhutv.png",
+    "source_detail": "Wordmark attributed to Puhutv by Wikimedia; secondary fallback available",
+    "legibility_outline_added": false,
+    "fetch_errors": [
+      "HTTPError: 404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/b/b3/Puhutv_logo.svg"
+    ],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": true
+  },
+  {
+    "slug": "tod",
+    "title": "TOD",
+    "asset_classification": "alternative",
+    "source_file": null,
+    "source_url": null,
+    "source_detail": "Türkiye Digiturk TOD typography, NOT an official sourced logo",
+    "legibility_outline_added": false,
+    "fetch_errors": [],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": false
+  },
+  {
+    "slug": "canal-plus",
+    "title": "CANAL+",
+    "asset_classification": "official-source",
+    "source_file": "CanalPlus.svg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c6/CanalPlus.svg",
+    "source_detail": "Canal+ logo from Canal+ Group",
+    "legibility_outline_added": false,
+    "fetch_errors": [],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": true
+  },
+  {
+    "slug": "skyshowtime",
+    "title": "SkyShowtime",
+    "asset_classification": "official-source",
+    "source_file": "SkyShowtime Logo.svg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/SkyShowtime_Logo.svg",
+    "source_detail": "SkyShowtime official 2022 vector supplied by Comcast and Paramount",
+    "legibility_outline_added": true,
+    "fetch_errors": [],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": false
+  },
+  {
+    "slug": "britbox",
+    "title": "BritBox",
+    "asset_classification": "official-source",
+    "source_file": "BritBox 2026.svg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/42/BritBox_2026.svg",
+    "source_detail": "New 22 January 2026 wordmark; BritBox / Sibling Rivalry",
+    "legibility_outline_added": false,
+    "fetch_errors": [],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": true
+  },
+  {
+    "slug": "bfi-player",
+    "title": "BFI Player",
+    "asset_classification": "derived-brand",
+    "source_file": "BFI Logo.svg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/BFI_Logo.svg",
+    "source_detail": "Authentic British Film Institute symbol + generated PLAYER text; not official BFI Player logo",
+    "legibility_outline_added": false,
+    "fetch_errors": [],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": false
+  },
+  {
+    "slug": "stan",
+    "title": "Stan",
+    "asset_classification": "official-source",
+    "source_file": "Stan logo.svg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Stan_logo.svg",
+    "source_detail": "Official Stan Entertainment vector",
+    "legibility_outline_added": false,
+    "fetch_errors": [],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": true
+  },
+  {
+    "slug": "roku-channel",
+    "title": "The Roku Channel",
+    "asset_classification": "official-source",
+    "source_file": "The Roku Channel Logo.svg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/The_Roku_Channel_Logo.svg",
+    "source_detail": "Roku, Inc. wordmark",
+    "legibility_outline_added": true,
+    "fetch_errors": [],
+    "files": [
+      "logo-v1.png",
+      "poster-v1.webp",
+      "hover-v1.webp"
+    ],
+    "poster_and_hover_are_original_nuvio_compositions": true,
+    "logo_is_official_unmodified": false
+  }
+]
