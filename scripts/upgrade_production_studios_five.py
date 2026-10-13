@@ -83,7 +83,7 @@ def source_itv():
 def source_timsbi():
     url=commons("TIMSBI Productions (2026).png")
     b,final=get(url)
-    return from_bytes(b,final),url,"first-party-mark-mirror",{"first_party":"https://timsbi.tv/","file_info":"https://commons.wikimedia.org/wiki/File:TIMSBI_Productions_(2026).png","rebrand":"2026 TIMS&B -> TİMSBİ, folder name preserved"})
+    return from_bytes(b,final),url,"first-party-mark-mirror",{"first_party":"https://timsbi.tv/","file_info":"https://commons.wikimedia.org/wiki/File:TIMSBI_Productions_(2026).png","rebrand":"2026 TIMS&B -> TİMSBİ, folder name preserved"}
 def source_bkm():
     u="https://bkmonline.net/uploads/2025102715542082282.zip"
     b,final=get(u)
