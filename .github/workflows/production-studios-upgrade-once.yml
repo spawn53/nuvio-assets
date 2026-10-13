@@ -2,7 +2,7 @@ name: Upgrade 5 studio marks from authoritative media
 on:
   push:
     branches: [artwork/production-studios-official-upgrade-20261013]
-    paths: [.github/workflows/production-studios-upgrade-once.yml]
+    paths: [.github/workflows/production-studios-upgrade-once.yml, scripts/upgrade_production_studios_five.py]
 permissions:
   contents: write
 jobs:
