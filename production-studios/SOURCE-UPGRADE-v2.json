@@ -1,0 +1,123 @@
+[
+  {
+    "slug": "pathe",
+    "source_classification": "brand-original-thirdparty-mirror",
+    "source_url": "https://images.seeklogo.com/logo-png/10/1/pathe-logo-png_seeklogo-106570.png",
+    "source_details": {
+      "brand_reference": "https://www.pathe.com/en/pathe/",
+      "mirror_note": "Source reproduces Pathé identity; not studio-issued Nuvio poster"
+    },
+    "source_resolution": [
+      600,
+      600
+    ],
+    "background_removed": true,
+    "black_to_white_dark_ui_adaptation": false,
+    "rendered_files": [
+      "poster-v2.webp",
+      "logo-v2.png",
+      "hover-v2.webp"
+    ],
+    "studio_logo_based": true,
+    "studio_issued_poster": false
+  },
+  {
+    "slug": "sky-studios",
+    "source_classification": "brand-original-thirdparty-mirror",
+    "source_url": "https://images.seeklogo.com/logo-png/43/1/sky-studios-logo-png_seeklogo-437793.png",
+    "source_details": {
+      "brand_ref": "https://skygroup.sky/en-gb/about/work-with-us/production",
+      "mirror_page": "https://seeklogo.com/vector-logo/437793/sky-studios"
+    },
+    "source_resolution": [
+      600,
+      600
+    ],
+    "background_removed": true,
+    "black_to_white_dark_ui_adaptation": true,
+    "rendered_files": [
+      "poster-v2.webp",
+      "logo-v2.png",
+      "hover-v2.webp"
+    ],
+    "studio_logo_based": true,
+    "studio_issued_poster": false
+  },
+  {
+    "slug": "itv-studios",
+    "source_classification": "first-party-itv-studios-cdn",
+    "source_url": "https://cdn.prod.website-files.com/65b289a41cea6e729db223d6/69787ed09ff7078d7a130d8b_69787ed09ff7078d7a130c9f_news5104372.jpeg",
+    "source_details": {
+      "site": "https://www.itvstudios.com/",
+      "press_page": "https://www.itv.com/presscentre/media-releases/itv-studios-announces-expanded-roles-its-senior-global-partnerships-team"
+    },
+    "source_resolution": [
+      1920,
+      1080
+    ],
+    "background_removed": true,
+    "black_to_white_dark_ui_adaptation": false,
+    "rendered_files": [
+      "poster-v2.webp",
+      "logo-v2.png",
+      "hover-v2.webp"
+    ],
+    "studio_logo_based": true,
+    "studio_issued_poster": false
+  },
+  {
+    "slug": "tims-and-b",
+    "source_classification": "first-party-mark-mirror",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/TIMSBI_Productions_%282026%29.png",
+    "source_details": {
+      "first_party": "https://timsbi.tv/",
+      "file_info": "https://commons.wikimedia.org/wiki/File:TIMSBI_Productions_(2026).png",
+      "rebrand": "2026 TIMS&B -> TİMSBİ, folder name preserved"
+    },
+    "source_resolution": [
+      2789,
+      679
+    ],
+    "background_removed": true,
+    "black_to_white_dark_ui_adaptation": false,
+    "rendered_files": [
+      "poster-v2.webp",
+      "logo-v2.png",
+      "hover-v2.webp"
+    ],
+    "studio_logo_based": true,
+    "studio_issued_poster": false
+  },
+  {
+    "slug": "bkm-film",
+    "source_classification": "first-party-official-brand-kit",
+    "source_url": "https://bkmonline.net/uploads/2025102715542082282.zip",
+    "source_details": {
+      "media_kit": "https://bkmonline.net/tr/basin-odasi/kurumsal-dokumanlar",
+      "member": "bkm-logo-erkek/bkm-logo-erkek.jpg",
+      "all_files": [
+        "bkm-logo-erkek/",
+        "__MACOSX/._bkm-logo-erkek",
+        "bkm-logo-erkek/bkm-logo-erkek.jpg",
+        "__MACOSX/bkm-logo-erkek/._bkm-logo-erkek.jpg",
+        "bkm-logo-erkek/bkm-logo-erkek.ai",
+        "__MACOSX/bkm-logo-erkek/._bkm-logo-erkek.ai",
+        "bkm-logo-erkek/bkm-logo-erkek.pdf",
+        "__MACOSX/bkm-logo-erkek/._bkm-logo-erkek.pdf"
+      ]
+    },
+    "source_resolution": [
+      370,
+      160
+    ],
+    "background_removed": true,
+    "black_to_white_dark_ui_adaptation": false,
+    "rendered_files": [
+      "poster-v2.webp",
+      "logo-v2.png",
+      "hover-v2.webp"
+    ],
+    "studio_logo_based": true,
+    "studio_issued_poster": false
+  }
+]
