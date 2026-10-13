@@ -77,17 +77,10 @@ def source_sky():
     b,final=get(url)
     return from_bytes(b,final),url,"brand-original-thirdparty-mirror",{"brand_ref":"https://skygroup.sky/en-gb/about/work-with-us/production","mirror_page":"https://seeklogo.com/vector-logo/437793/sky-studios"}
 def source_itv():
-    urls=[
-      "https://www.itv.com/presscentre/presscentre/presscentre/presscentre/system/files/styles/social/private/2025-02/itv_studios_1.jpg?itok=QRnN3bvG",
-      "https://www.itv.com/presscentre/system/files/styles/social/private/2025-02/itv_studios_1.jpg?itok=QRnN3bvG",
-    ]
-    errs=[]
-    for u in urls:
-        try:
-            b,final=get(u)
-            return from_bytes(b,final),u,"first-party-itv-press",{"press_page":"https://www.itv.com/presscentre/media-releases/itv-studios-announces-expanded-roles-its-senior-global-partnerships-team"}
-        except Exception as e:errs.append(str(e)[:110])
-    raise RuntimeError("ITV press image not retrievable "+" | ".join(errs))
+    # Current ITV Studios blue wordmark hosted directly in ITV Studios' site media CDN.
+    url="https://cdn.prod.website-files.com/65b289a41cea6e729db223d6/69787ed09ff7078d7a130d8b_69787ed09ff7078d7a130c9f_news5104372.jpeg"
+    b,final=get(url,timeout=22)
+    return from_bytes(b,final),url,"first-party-itv-studios-cdn",{"site":"https://www.itvstudios.com/","press_page":"https://www.itv.com/presscentre/media-releases/itv-studios-announces-expanded-roles-its-senior-global-partnerships-team"}
 def source_timsbi():
     url=commons("TIMSBI Productions (2026).png")
     b,final=get(url)
