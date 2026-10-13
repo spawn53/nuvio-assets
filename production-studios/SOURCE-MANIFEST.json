@@ -1,0 +1,378 @@
+[
+  {
+    "slug": "studio-charts",
+    "title": "Studio Charts",
+    "classification": "editorial",
+    "original_source": null,
+    "intended_source": null,
+    "notes": "Neutral editorial studio-ranking artwork",
+    "contrast_modified": false,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "amblin-entertainment",
+    "title": "Amblin Entertainment",
+    "classification": "official-web",
+    "original_source": "https://amblin.com/wp-content/themes/amblin-theme/resources/assets/images/amblin-entertainment-mobile.svg",
+    "intended_source": "https://amblin.com/",
+    "notes": "Official Amblin site, ET moon silhouette; no Amblin Partners logo substitution",
+    "contrast_modified": false,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "bad-robot",
+    "title": "Bad Robot",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Bad_Robot_Productions.svg",
+    "intended_source": "Bad Robot Productions.svg",
+    "notes": "Bad Robot Productions original wordmark",
+    "contrast_modified": false,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "legendary-entertainment",
+    "title": "Legendary Entertainment",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Legendary_Entertainment_logo_variant.svg",
+    "intended_source": "Legendary Entertainment logo variant.svg",
+    "notes": "Legendary Entertainment source attribution www.legendary.com",
+    "contrast_modified": true,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "cbs-studios",
+    "title": "CBS Studios",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/7/79/CBS_Studios.svg",
+    "intended_source": "CBS Studios.svg",
+    "notes": "CBS Studios logo, not CBS network",
+    "contrast_modified": true,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "skydance",
+    "title": "Skydance",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Skydance_Corporation_Dark_Logo_2026.svg",
+    "intended_source": "Skydance Corporation Dark Logo 2026.svg",
+    "notes": "2026 Skydance corporation brand, not Paramount logo",
+    "contrast_modified": true,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "film4-productions",
+    "title": "Film4 Productions",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/5/53/Film4_logo_2018.svg",
+    "intended_source": "Film4 logo 2018.svg",
+    "notes": "Film4 UK/Channel 4 production identity; do not use Hungary Film4",
+    "contrast_modified": true,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "gaumont",
+    "title": "Gaumont",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Gaumont_2026_%28wordmark%29.svg",
+    "intended_source": "Gaumont 2026 (wordmark).svg",
+    "notes": "May 2026 new identity",
+    "contrast_modified": false,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "pathe",
+    "title": "Pathé",
+    "classification": "alternative",
+    "original_source": null,
+    "intended_source": "Pathe logo.svg",
+    "notes": "Pathé film studio emblem",
+    "contrast_modified": false,
+    "download_errors": [
+      "HTTPError('404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/2/28/Pathe_logo.svg')"
+    ],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "working-title-films",
+    "title": "Working Title Films",
+    "classification": "official-web",
+    "original_source": "https://www.workingtitlefilms.com/wp-content/uploads/2025/05/logo-xl.png",
+    "intended_source": "https://www.workingtitlefilms.com/",
+    "notes": "Official site says Working Title Logo",
+    "contrast_modified": false,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "toho",
+    "title": "Toho",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/1/19/Toho_logo.svg",
+    "intended_source": "Toho logo.svg",
+    "notes": "Original Toho kanji emblem",
+    "contrast_modified": true,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "cj-enm",
+    "title": "CJ ENM / CJ Entertainment",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/b/be/CJ_ENM_Logo.svg",
+    "intended_source": "CJ ENM Logo.svg",
+    "notes": "CJ ENM current corporate mark; folder includes CJ Entertainment",
+    "contrast_modified": true,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "sky-studios",
+    "title": "Sky Studios",
+    "classification": "official-web",
+    "original_source": "https://static.skyassets.com/contentstack/assets/blt4b099fa9cc3801a6/blt9d3323ce874514b9/68bee476d2e6bb98e6d17d8c/Believe-in-better-logo-tagline-white.png?downsize=1024:*&output-format=jpg",
+    "intended_source": "https://www.skygroup.sky/",
+    "notes": "Distinct Sky Studios brand, NOT Sky television network logo",
+    "contrast_modified": false,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "itv-studios",
+    "title": "ITV Studios",
+    "classification": "alternative",
+    "original_source": null,
+    "intended_source": "ITV Studios.svg",
+    "notes": "ITV Studios studio identity, not ITV network",
+    "contrast_modified": false,
+    "download_errors": [
+      "HTTPError('404 Client Error: Not Found for url: https://upload.wikimedia.org/wikipedia/commons/5/59/ITV_Studios.svg')"
+    ],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "fremantle",
+    "title": "Fremantle",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/4/43/Fremantle_2018_logo.svg",
+    "intended_source": "Fremantle 2018 logo.svg",
+    "notes": "Entertainment production company, not Australian publisher/sports club",
+    "contrast_modified": true,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "banijay",
+    "title": "Banijay",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/8/89/Banijay_2020_logo.svg",
+    "intended_source": "Banijay 2020 logo.svg",
+    "notes": "Banijay 2020 brand as described on official site",
+    "contrast_modified": false,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "studio-dragon",
+    "title": "Studio Dragon",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/7/72/Studio_Dragon_LOGO_%282022%29.png",
+    "intended_source": "Studio Dragon LOGO (2022).png",
+    "notes": "Original Studio Dragon South Korean producer mark",
+    "contrast_modified": true,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "fifth-season",
+    "title": "Fifth Season",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Fifth_Season_logo.svg",
+    "intended_source": "Fifth Season logo.svg",
+    "notes": "Fifth Season original wordmark",
+    "contrast_modified": true,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "ay-yapim",
+    "title": "Ay Yapım",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/1/13/Ay_Yap%C4%B1m_%282014%29.png",
+    "intended_source": "Ay Yapım (2014).png",
+    "notes": "Original mark sourced to ayyapim.com, year 2014",
+    "contrast_modified": true,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "ogm-pictures",
+    "title": "OGM Pictures",
+    "classification": "commons",
+    "original_source": "https://upload.wikimedia.org/wikipedia/commons/f/fe/1599490879_OGM_Pictures_Logo.jpg",
+    "intended_source": "1599490879 OGM Pictures Logo.jpg",
+    "notes": "Logo source references ogmpictures.com",
+    "contrast_modified": true,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "medyapim",
+    "title": "Medyapım",
+    "classification": "official-web",
+    "original_source": "https://medyapim.com/wp-content/uploads/2022/06/medyapim-logo.png",
+    "intended_source": "https://medyapim.com/",
+    "notes": "Official Turkish production company site",
+    "contrast_modified": false,
+    "download_errors": [],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "tims-and-b",
+    "title": "TIMS&B",
+    "classification": "alternative",
+    "original_source": null,
+    "intended_source": "https://timsbi.com/",
+    "notes": "Company rebranded to TİMSBİ in 2026; folder name retained",
+    "contrast_modified": false,
+    "download_errors": [
+      "ConnectionError(MaxRetryError('HTTPSConnectionPool(host=\\'timsbi.com\\', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host=\\'timsbi.com\\', port=443): Failed to resolve \\'tims"
+    ],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  },
+  {
+    "slug": "bkm-film",
+    "title": "BKM Film",
+    "classification": "alternative",
+    "original_source": null,
+    "intended_source": "https://www.bkm.com.tr/",
+    "notes": "BKM official corporate studio mark",
+    "contrast_modified": false,
+    "download_errors": [
+      "RuntimeError('No first-party logo asset confidently located on official landing page')"
+    ],
+    "poster_and_hover_are_derived_nuvio_compositions": true,
+    "files": [
+      "poster-v1.webp",
+      "logo-v1.png",
+      "hover-v1.webp"
+    ]
+  }
+]
